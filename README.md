@@ -2,7 +2,7 @@
 
 Our system is an integrated medical system for medical treatment(such as sheep placenta injection) that enables registration, queuing, scheduling of treatment, report printing and more. In this system, users have a high degree of freedom over whether or not to receive treatment, and will be scheduled fairly and efficiently. Next, we will introduce the functionality of our system in the following aspects.
 
-![Haha](https://github.com/Erikaqvq/CS225CA1/blob/main/image/qwq.jpeg)
+![Haha](https://github.com/54clean/MeT-System/blob/main/image/qwq.jpeg)
 
 
 ## NOTICE!!! ## 
